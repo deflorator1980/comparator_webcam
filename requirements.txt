@@ -1,0 +1,2 @@
+py-postgresql
+face_recognition
