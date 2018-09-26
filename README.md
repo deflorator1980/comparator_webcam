@@ -5,7 +5,8 @@
 ```
 ### Заполнить базу, распознать по фото (закомментировать ненужное):
 ```bash    
-        python3 fr3.py <file>.jpg
+        python3 fr3.py <file>.jpg # Postgres
+        python3 fr.py <file>.jpg  # Mongo
 ```
 ## Installation on Ubuntu 17.10:
 ```bash
