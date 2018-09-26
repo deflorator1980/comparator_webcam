@@ -1,7 +1,8 @@
 # Разпознавание человека по видео
 
 ```bash
-    python3 webcam3.py
+    python3 webcam3.py # Postgres
+    python3 webcam3.py # Mongo
 ```
 ### Заполнить базу, распознать по фото (закомментировать ненужное):
 ```bash    

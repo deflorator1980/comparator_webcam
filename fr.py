@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-from bson.binary import Binary
 import pickle
 import face_recognition
 import pickle
