@@ -11,6 +11,7 @@
 ```
 ## Installation on Ubuntu 17.10:
 ```bash
+    sudo apt install cmake -y
     sudo apt-get install python3-tk -y
     sudo apt install python3-opencv -y
     pip3 install -r requrements.txt
