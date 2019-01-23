@@ -11,12 +11,12 @@
         python3 fr.py <file>.jpg  # Mongo
         python3 frs.py <file>.jpg  # SQLite
 ```
-## Installation on Ubuntu 17.10:
+## Installation on Ubuntu 17.10 and higher:
 ```bash
     sudo apt install cmake -y
     sudo apt-get install python3-tk -y
     sudo apt install python3-opencv -y
-    pip3 install -r requrements.txt
+    sudo -H pip3 install -r requirements.txt
 ```    
 
 ![](gif.gif)
