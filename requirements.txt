@@ -1,4 +1,5 @@
+matplotlib
+opencv-python
+face_recognition
 py-postgresql
 pymongo
-face_recognition
-matplotlib
