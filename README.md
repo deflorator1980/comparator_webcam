@@ -15,6 +15,7 @@
 ```bash
     sudo apt install cmake -y
     sudo -H pip3 install -r requirements.txt
+    [sudo apt install libpython3.6-dev]
 ```    
 
 ![](gif.gif)
