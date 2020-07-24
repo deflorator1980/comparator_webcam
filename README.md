@@ -11,6 +11,13 @@
         python3 fr.py <file>.jpg  # Mongo
         python3 frs.py <file>.jpg  # SQLite
 ```
+### Распознать по фото + возраст, пол (Python 3.6)*
+```bash
+        pip install py-agender[cpu]
+        python frs_ag.py <file>.jpg
+```
+*при ошибке см. https://github.com/deflorator1980/comparator_webcam/wiki
+
 ## Installation on Ubuntu 17.10 and higher:
 ```bash
     sudo apt install cmake -y

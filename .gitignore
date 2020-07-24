@@ -115,3 +115,5 @@ build/
 gradle/
 .idea/
 log.txt
+
+.virtual_documents/
