@@ -2,7 +2,7 @@
 
 ```bash
     python3 webcam3.py # Postgres
-    python3 webcam3.py # Mongo
+    python3 webcam.py  # Mongo
     python3 webcams.py # SQLite
 ```
 ### Заполнить базу, распознать по фото (закомментировать ненужное):
